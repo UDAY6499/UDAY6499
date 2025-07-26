@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**UDAY6499/UDAY6499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**UDAY6499@callout.in/UDAY6499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
